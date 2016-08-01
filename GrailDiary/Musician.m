@@ -20,6 +20,7 @@
         aMusician.paymentPerShow = musicianDict[@"paymentPerShow"];
         aMusician.foundedOrBorn = musicianDict[@"foundedOrBorn"];
         aMusician.imageName = musicianDict[@"musicianImage"];
+        aMusician.bio = musicianDict[@"bio"];
     }
     
     

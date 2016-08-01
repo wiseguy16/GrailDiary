@@ -23,6 +23,7 @@
     [super viewDidLoad];
     
     self.title = @"Highest Paid Per Show";
+    self.musicians = [[NSMutableArray alloc] init];
     
     [self loadMusicians];
 }
@@ -67,6 +68,7 @@
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
 {
     return self.musicians.count;
+    
 }
 
 
@@ -84,6 +86,22 @@
     
     return cell;
 }
+
+// *******************WE WILL NEED METHOD didSelectRowAtIndexPath****************
+
+-(void)tableView:(UITableView *)tableView didSelectRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    [tableView deselectRowAtIndexPath:indexPath animated:NO];
+    MusicianDetailViewController *newMusicianVC = [self.storyboard instantiateViewControllerWithIdentifier:@"MusicianDetailVC"];
+    [[self navigationController] pushViewController:newMusicianVC animated:YES];
+    
+    Musician *selectedMusician = self.musicians[indexPath.row];
+    newMusicianVC.musician = selectedMusician;
+    
+    
+    
+}
+
 
 
 /*

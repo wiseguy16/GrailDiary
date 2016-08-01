@@ -25,6 +25,9 @@
 		4AFE724E1D4FCD39000F5C67 /* pinkfloyd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72441D4FCD39000F5C67 /* pinkfloyd.jpg */; };
 		4AFE724F1D4FCD39000F5C67 /* celinedion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72451D4FCD39000F5C67 /* celinedion.jpg */; };
 		4AFE72521D4FCDA5000F5C67 /* Musician.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFE72511D4FCDA5000F5C67 /* Musician.m */; };
+		4AFE72541D4FDBFE000F5C67 /* captainAmerica.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72531D4FDBFE000F5C67 /* captainAmerica.jpeg */; };
+		4AFE72561D4FDC08000F5C67 /* thor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72551D4FDC08000F5C67 /* thor.jpeg */; };
+		4AFE72581D4FDCE3000F5C67 /* musicians.json in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72571D4FDCE3000F5C67 /* musicians.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +55,9 @@
 		4AFE72451D4FCD39000F5C67 /* celinedion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = celinedion.jpg; sourceTree = "<group>"; };
 		4AFE72501D4FCDA5000F5C67 /* Musician.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Musician.h; sourceTree = "<group>"; };
 		4AFE72511D4FCDA5000F5C67 /* Musician.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Musician.m; sourceTree = "<group>"; };
+		4AFE72531D4FDBFE000F5C67 /* captainAmerica.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = captainAmerica.jpeg; sourceTree = "<group>"; };
+		4AFE72551D4FDC08000F5C67 /* thor.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thor.jpeg; sourceTree = "<group>"; };
+		4AFE72571D4FDCE3000F5C67 /* musicians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = musicians.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,8 @@
 				4AFE72431D4FCD39000F5C67 /* thepolice.jpg */,
 				4AFE72441D4FCD39000F5C67 /* pinkfloyd.jpg */,
 				4AFE72451D4FCD39000F5C67 /* celinedion.jpg */,
+				4AFE72531D4FDBFE000F5C67 /* captainAmerica.jpeg */,
+				4AFE72551D4FDC08000F5C67 /* thor.jpeg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -107,6 +115,7 @@
 				4AFE722D1D4FCA15000F5C67 /* LaunchScreen.storyboard */,
 				4AFE72301D4FCA15000F5C67 /* Info.plist */,
 				4AFE721F1D4FCA15000F5C67 /* Supporting Files */,
+				4AFE72571D4FDCE3000F5C67 /* musicians.json */,
 			);
 			path = GrailDiary;
 			sourceTree = "<group>";
@@ -177,9 +186,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AFE724E1D4FCD39000F5C67 /* pinkfloyd.jpg in Resources */,
+				4AFE72541D4FDBFE000F5C67 /* captainAmerica.jpeg in Resources */,
+				4AFE72581D4FDCE3000F5C67 /* musicians.json in Resources */,
 				4AFE72491D4FCD39000F5C67 /* therollingstones.jpg in Resources */,
 				4AFE724A1D4FCD39000F5C67 /* bonjovi.jpg in Resources */,
 				4AFE72461D4FCD39000F5C67 /* u2.jpg in Resources */,
+				4AFE72561D4FDC08000F5C67 /* thor.jpeg in Resources */,
 				4AFE722F1D4FCA15000F5C67 /* LaunchScreen.storyboard in Resources */,
 				4AFE724C1D4FCD39000F5C67 /* brucespringsteen.jpg in Resources */,
 				4AFE724B1D4FCD39000F5C67 /* acdc.jpg in Resources */,

@@ -20,6 +20,8 @@
 @property (weak, nonatomic) IBOutlet UIImageView *musicianImageView;
 
 
+@property (weak, nonatomic) IBOutlet UILabel *finePrintLabel;
+
 - (void)configureView;
 
 @end
@@ -74,10 +76,12 @@
         self.musicianNameLabel.text = self.musician.name;
         self.paymentPerShowLabel.text = self.musician.paymentPerShow;
         self.bioLabel.text = self.musician.bio;
+        self.foundedOrBornLabel.text = self.musician.foundedOrBorn;
         self.musicianImageView.image = [UIImage imageNamed:self.musician.imageName];
+        self.finePrintLabel.text = @"DISCLAIMER:  We found which tours grossed the largest amount of money in the history of music, and split the total amount with the number of shows played on the tour. Doing that we managed to see how much money was earned per single show. Our source was List of the highest grossing concert tours. The list for the tour was obtained from Billboard and Pollstar with sales information from promoters and managers who organized the tours.";
         
         
-        
+        // Payment per show:
     }
 }
 

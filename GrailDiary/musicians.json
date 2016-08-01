@@ -1,0 +1,72 @@
+ [
+  {
+    "name": "Celine Dion",
+    "paymentPerShow": "$2.1 million",
+    "foundedOrBorn": "Born: March 30, 1968",
+    "bio": "Canadian lady Celine Dion has proved that Titanic is still popular when she bagged a hefty $279,200,000 for her 132 shows between 2008 and 2009.",
+    "musicianImage": "celinedion"
+  },
+  {
+  "name": "Pink Floyd",
+  "paymentPerShow": "$2.3 million",
+  "foundedOrBorn": "Formed in 1965",
+  "bio": "The Division Bell Tour, the first one without Roger Waters, still proved to be successful. Pink Floyd played 120 shows in 1994 and they earned $250,000,000.",
+  "musicianImage": "pinkfloyd"
+  },
+  {
+  "name": "The Police",
+  "paymentPerShow": "$2.3 million",
+  "foundedOrBorn": "Formed in 1977",
+  "bio": "Reunions are always lucrative so The Police decided to play on the nostalgia card and get together for 156 shows in 2007 and 2008. Their effort was well paid, since they earned $362,000,000 and then retired again.",
+  "musicianImage": "thepolice"
+  },
+  {
+  "name": "Bruce Springsteen",
+  "paymentPerShow": "$2.4 million",
+  "foundedOrBorn": "Born: September 23, 1949",
+  "bio": "Bruce Springsteen and his E Street Band organized the Magic Tour and magic really happened. On 100 shows in 2 years they grossed $235,000,000. Good work Bruce.",
+  "musicianImage": "brucespringsteen"
+  },
+  {
+  "name": "AC/DC",
+  "paymentPerShow": "$2.6 million",
+  "foundedOrBorn": "Formed in 1973",
+  "bio": "Rock legends AC/DC from Australia dusted off their guitars and set the sail on a three year tour from 2008 to 2010. The tour was named Black Ice World Tour and increased their piggy bank $441,121,000.",
+  "musicianImage": "acdc"
+  },
+  {
+  "name": "Bon Jovi",
+  "paymentPerShow": "$2.67 million",
+  "foundedOrBorn": "Formed in 1983",
+  "bio": "Bon Jovi’s last tour was their most lucrative one. The Because We Can Tour in 2013 earned them $259,500,000 for 97 shows and earned them a place on 11 Highest Paid Singers and Musicians of All Time.",
+  "musicianImage": "bonjovi"
+  },
+  {
+  "name": "The Rolling Stones",
+  "paymentPerShow": "$3.8 million",
+  "foundedOrBorn": "Formed in 1962",
+  "bio": "One of the biggest rock bands of all time is still going strong and touring like it’s their last one — given the amount of drugs they took, every show could be their last one. The A Bigger Bang Tour launched in 2007 and netted them $558,255,524 for 144 appearances all over the world.",
+  "musicianImage": "therollingstones"
+  },
+  {
+  "name": "One Direction",
+  "paymentPerShow": "$4.2 million",
+  "foundedOrBorn": "Formed in 2010",
+  "bio": "Boy bands are back and they are going stronger than ever. All the screaming girls helped One Direction to gross $290,178,452 on their Where We Are Tour. For as little as 72 shows they earned a quite amount of money.",
+  "musicianImage": "onedirection"
+  },
+  {
+  "name": "Madonna",
+  "paymentPerShow": "$4.79 million",
+  "foundedOrBorn": "Born: August 16, 1958",
+  "bio": "Another lady on our list, Madonna proved that Sticky & Sweet will go far and earn you a lot of money. She played just 85 shows over the course of 2 years and still managed to earn $408,000,000 for them.",
+  "musicianImage": "madonna"
+  },
+  {
+    "name": "U2",
+    "paymentPerShow": "$6.7 million",
+    "foundedOrBorn": "Formed in 1976",
+    "bio": "Rock ‘n’ roll moneymaking machine would be more proper name for them if you ask us. On every tour, U2 likes to do it big and earn big. In 2009 U2’s 360° Tour officially started. Three years and 110 shows later, their bank account was $736,421,584 larger. Congratulations to U2 for leading theHighest Paid Singers and Musicians of All Time. Now Bono will have plenty of money to finance his philanthropic endeavors.",
+    "musicianImage": "u2"
+  }
+]
