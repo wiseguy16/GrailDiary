@@ -13,6 +13,18 @@
 		4AFE722C1D4FCA15000F5C67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE722B1D4FCA15000F5C67 /* Assets.xcassets */; };
 		4AFE722F1D4FCA15000F5C67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE722D1D4FCA15000F5C67 /* LaunchScreen.storyboard */; };
 		4AFE72381D4FCA61000F5C67 /* MusicianMasterTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFE72371D4FCA61000F5C67 /* MusicianMasterTableViewController.m */; };
+		4AFE723B1D4FCB78000F5C67 /* MusicianDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFE723A1D4FCB78000F5C67 /* MusicianDetailViewController.m */; };
+		4AFE72461D4FCD39000F5C67 /* u2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE723C1D4FCD39000F5C67 /* u2.jpg */; };
+		4AFE72471D4FCD39000F5C67 /* madonna.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE723D1D4FCD39000F5C67 /* madonna.jpg */; };
+		4AFE72481D4FCD39000F5C67 /* onedirection.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE723E1D4FCD39000F5C67 /* onedirection.jpg */; };
+		4AFE72491D4FCD39000F5C67 /* therollingstones.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE723F1D4FCD39000F5C67 /* therollingstones.jpg */; };
+		4AFE724A1D4FCD39000F5C67 /* bonjovi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72401D4FCD39000F5C67 /* bonjovi.jpg */; };
+		4AFE724B1D4FCD39000F5C67 /* acdc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72411D4FCD39000F5C67 /* acdc.jpg */; };
+		4AFE724C1D4FCD39000F5C67 /* brucespringsteen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72421D4FCD39000F5C67 /* brucespringsteen.jpg */; };
+		4AFE724D1D4FCD39000F5C67 /* thepolice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72431D4FCD39000F5C67 /* thepolice.jpg */; };
+		4AFE724E1D4FCD39000F5C67 /* pinkfloyd.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72441D4FCD39000F5C67 /* pinkfloyd.jpg */; };
+		4AFE724F1D4FCD39000F5C67 /* celinedion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72451D4FCD39000F5C67 /* celinedion.jpg */; };
+		4AFE72521D4FCDA5000F5C67 /* Musician.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFE72511D4FCDA5000F5C67 /* Musician.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +38,20 @@
 		4AFE72301D4FCA15000F5C67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4AFE72361D4FCA61000F5C67 /* MusicianMasterTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianMasterTableViewController.h; sourceTree = "<group>"; };
 		4AFE72371D4FCA61000F5C67 /* MusicianMasterTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianMasterTableViewController.m; sourceTree = "<group>"; };
+		4AFE72391D4FCB78000F5C67 /* MusicianDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianDetailViewController.h; sourceTree = "<group>"; };
+		4AFE723A1D4FCB78000F5C67 /* MusicianDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianDetailViewController.m; sourceTree = "<group>"; };
+		4AFE723C1D4FCD39000F5C67 /* u2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = u2.jpg; sourceTree = "<group>"; };
+		4AFE723D1D4FCD39000F5C67 /* madonna.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = madonna.jpg; sourceTree = "<group>"; };
+		4AFE723E1D4FCD39000F5C67 /* onedirection.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = onedirection.jpg; sourceTree = "<group>"; };
+		4AFE723F1D4FCD39000F5C67 /* therollingstones.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = therollingstones.jpg; sourceTree = "<group>"; };
+		4AFE72401D4FCD39000F5C67 /* bonjovi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bonjovi.jpg; sourceTree = "<group>"; };
+		4AFE72411D4FCD39000F5C67 /* acdc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = acdc.jpg; sourceTree = "<group>"; };
+		4AFE72421D4FCD39000F5C67 /* brucespringsteen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brucespringsteen.jpg; sourceTree = "<group>"; };
+		4AFE72431D4FCD39000F5C67 /* thepolice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thepolice.jpg; sourceTree = "<group>"; };
+		4AFE72441D4FCD39000F5C67 /* pinkfloyd.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pinkfloyd.jpg; sourceTree = "<group>"; };
+		4AFE72451D4FCD39000F5C67 /* celinedion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = celinedion.jpg; sourceTree = "<group>"; };
+		4AFE72501D4FCDA5000F5C67 /* Musician.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Musician.h; sourceTree = "<group>"; };
+		4AFE72511D4FCDA5000F5C67 /* Musician.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Musician.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +70,16 @@
 			children = (
 				4AFE721E1D4FCA15000F5C67 /* GrailDiary */,
 				4AFE721D1D4FCA15000F5C67 /* Products */,
+				4AFE723C1D4FCD39000F5C67 /* u2.jpg */,
+				4AFE723D1D4FCD39000F5C67 /* madonna.jpg */,
+				4AFE723E1D4FCD39000F5C67 /* onedirection.jpg */,
+				4AFE723F1D4FCD39000F5C67 /* therollingstones.jpg */,
+				4AFE72401D4FCD39000F5C67 /* bonjovi.jpg */,
+				4AFE72411D4FCD39000F5C67 /* acdc.jpg */,
+				4AFE72421D4FCD39000F5C67 /* brucespringsteen.jpg */,
+				4AFE72431D4FCD39000F5C67 /* thepolice.jpg */,
+				4AFE72441D4FCD39000F5C67 /* pinkfloyd.jpg */,
+				4AFE72451D4FCD39000F5C67 /* celinedion.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,6 +96,10 @@
 			children = (
 				4AFE72221D4FCA15000F5C67 /* AppDelegate.h */,
 				4AFE72231D4FCA15000F5C67 /* AppDelegate.m */,
+				4AFE72501D4FCDA5000F5C67 /* Musician.h */,
+				4AFE72511D4FCDA5000F5C67 /* Musician.m */,
+				4AFE72391D4FCB78000F5C67 /* MusicianDetailViewController.h */,
+				4AFE723A1D4FCB78000F5C67 /* MusicianDetailViewController.m */,
 				4AFE72361D4FCA61000F5C67 /* MusicianMasterTableViewController.h */,
 				4AFE72371D4FCA61000F5C67 /* MusicianMasterTableViewController.m */,
 				4AFE72281D4FCA15000F5C67 /* Main.storyboard */,
@@ -136,9 +176,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AFE724E1D4FCD39000F5C67 /* pinkfloyd.jpg in Resources */,
+				4AFE72491D4FCD39000F5C67 /* therollingstones.jpg in Resources */,
+				4AFE724A1D4FCD39000F5C67 /* bonjovi.jpg in Resources */,
+				4AFE72461D4FCD39000F5C67 /* u2.jpg in Resources */,
 				4AFE722F1D4FCA15000F5C67 /* LaunchScreen.storyboard in Resources */,
+				4AFE724C1D4FCD39000F5C67 /* brucespringsteen.jpg in Resources */,
+				4AFE724B1D4FCD39000F5C67 /* acdc.jpg in Resources */,
+				4AFE724D1D4FCD39000F5C67 /* thepolice.jpg in Resources */,
+				4AFE724F1D4FCD39000F5C67 /* celinedion.jpg in Resources */,
 				4AFE722C1D4FCA15000F5C67 /* Assets.xcassets in Resources */,
 				4AFE722A1D4FCA15000F5C67 /* Main.storyboard in Resources */,
+				4AFE72481D4FCD39000F5C67 /* onedirection.jpg in Resources */,
+				4AFE72471D4FCD39000F5C67 /* madonna.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,7 +199,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AFE723B1D4FCB78000F5C67 /* MusicianDetailViewController.m in Sources */,
 				4AFE72241D4FCA15000F5C67 /* AppDelegate.m in Sources */,
+				4AFE72521D4FCDA5000F5C67 /* Musician.m in Sources */,
 				4AFE72381D4FCA61000F5C67 /* MusicianMasterTableViewController.m in Sources */,
 				4AFE72211D4FCA15000F5C67 /* main.m in Sources */,
 			);
