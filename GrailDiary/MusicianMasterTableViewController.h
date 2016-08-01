@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MusicianMasterTableViewController.h
 //  GrailDiary
 //
 //  Created by Gregory Weiss on 8/1/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MusicianMasterTableViewController : UITableViewController
 
 @end
-
