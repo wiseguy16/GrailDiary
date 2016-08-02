@@ -28,6 +28,7 @@
 		4AFE72541D4FDBFE000F5C67 /* captainAmerica.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72531D4FDBFE000F5C67 /* captainAmerica.jpeg */; };
 		4AFE72561D4FDC08000F5C67 /* thor.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72551D4FDC08000F5C67 /* thor.jpeg */; };
 		4AFE72581D4FDCE3000F5C67 /* musicians.json in Resources */ = {isa = PBXBuildFile; fileRef = 4AFE72571D4FDCE3000F5C67 /* musicians.json */; };
+		4AFE726E1D50BA23000F5C67 /* MusicianCustomViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4AFE726D1D50BA23000F5C67 /* MusicianCustomViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,8 @@
 		4AFE72531D4FDBFE000F5C67 /* captainAmerica.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = captainAmerica.jpeg; sourceTree = "<group>"; };
 		4AFE72551D4FDC08000F5C67 /* thor.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = thor.jpeg; sourceTree = "<group>"; };
 		4AFE72571D4FDCE3000F5C67 /* musicians.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = musicians.json; sourceTree = "<group>"; };
+		4AFE726C1D50BA23000F5C67 /* MusicianCustomViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicianCustomViewCell.h; sourceTree = "<group>"; };
+		4AFE726D1D50BA23000F5C67 /* MusicianCustomViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicianCustomViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				4AFE723A1D4FCB78000F5C67 /* MusicianDetailViewController.m */,
 				4AFE72361D4FCA61000F5C67 /* MusicianMasterTableViewController.h */,
 				4AFE72371D4FCA61000F5C67 /* MusicianMasterTableViewController.m */,
+				4AFE726C1D50BA23000F5C67 /* MusicianCustomViewCell.h */,
+				4AFE726D1D50BA23000F5C67 /* MusicianCustomViewCell.m */,
 				4AFE72281D4FCA15000F5C67 /* Main.storyboard */,
 				4AFE722B1D4FCA15000F5C67 /* Assets.xcassets */,
 				4AFE722D1D4FCA15000F5C67 /* LaunchScreen.storyboard */,
@@ -213,6 +218,7 @@
 			files = (
 				4AFE723B1D4FCB78000F5C67 /* MusicianDetailViewController.m in Sources */,
 				4AFE72241D4FCA15000F5C67 /* AppDelegate.m in Sources */,
+				4AFE726E1D50BA23000F5C67 /* MusicianCustomViewCell.m in Sources */,
 				4AFE72521D4FCDA5000F5C67 /* Musician.m in Sources */,
 				4AFE72381D4FCA61000F5C67 /* MusicianMasterTableViewController.m in Sources */,
 				4AFE72211D4FCA15000F5C67 /* main.m in Sources */,
@@ -366,6 +372,7 @@
 				4AFE72351D4FCA15000F5C67 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

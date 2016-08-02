@@ -10,6 +10,8 @@
 #import "MusicianDetailViewController.h"
 #import "Musician.h"
 
+#import "MusicianCustomViewCell.h"
+
 @interface MusicianMasterTableViewController ()
 
 @property NSMutableArray *musicians;
@@ -25,6 +27,7 @@
     self.title = @"Highest Paid Per Show";
     self.musicians = [[NSMutableArray alloc] init];
     
+
     [self loadMusicians];
 }
 
@@ -75,13 +78,16 @@
 
 - (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
 {
-    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"MusicianCell" forIndexPath:indexPath];
+    MusicianCustomViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"MusicianCustomCell" forIndexPath:indexPath];
     
     Musician *aMusician = self.musicians[indexPath.row];
+    cell.mName.text = aMusician.name;
+    cell.mMoneyAmount.text = aMusician.paymentPerShow;
+    cell.mImage.image = [UIImage imageNamed:aMusician.imageName];
     
     // Configure the cell...
-    cell.textLabel.text = aMusician.name;
-    cell.detailTextLabel.text = aMusician.paymentPerShow;
+//    cell.textLabel.text = aMusician.name;
+//    cell.detailTextLabel.text = aMusician.paymentPerShow;
     
     
     return cell;
